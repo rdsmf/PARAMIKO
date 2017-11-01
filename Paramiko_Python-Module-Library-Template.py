@@ -1,5 +1,5 @@
 #!/usr/local/bin/python
-# Netmiko Python Module Library Template
+# Paramiko Python Module Library Template
 
 # Importing necessary modules
 import paramiko
