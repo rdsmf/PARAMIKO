@@ -13,7 +13,6 @@ password = "<password>"
 
 # Crreation of a Paramiko SSH client Object
 remote_conn_pre = paramiko.SSHClient()
-remote_conn_pre
 
 # Disable SSH warnings
 remote_conn_pre.set_missing_host_key_policy(paramiko.AutoAddPolicy())
